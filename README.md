@@ -3,7 +3,7 @@ This code logs power plugged status every one minute for profiling purpose.
 
 Make the script executable from a terminal,
 ```
-chmod +x /path/to/myscript.sh.
+chmod +x /path/to/battery-logger.sh.
 ```
 
 Open your personal crontab as
