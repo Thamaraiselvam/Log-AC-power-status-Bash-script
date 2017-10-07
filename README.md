@@ -3,7 +3,11 @@ This code logs power plugged status every one minute for profiling purpose.
 
 Install ```acpi``` package to get the battery percentage 
 
-In debian based distro
+Arch Linux
+
+```sudo pacman -S acpi```
+
+Debian based distro ( Debian, Ubuntu, Linux mint..etc)
 
 ```apt install acpi```
 
