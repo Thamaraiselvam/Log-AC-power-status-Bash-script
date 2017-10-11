@@ -19,7 +19,7 @@ chmod +x /path/to/battery-logger.sh
 
 Open your personal crontab as
 ```
-EDITOR=gedit crontab -e
+EDITOR=vim crontab -e
 ```
 and append the following line in it to run your script every minute.
 
